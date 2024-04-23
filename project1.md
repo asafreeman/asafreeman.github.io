@@ -1,7 +1,7 @@
   ---
   title: Project1
   category: Projects
-  layout: post
+  layout: page
   ---
 
   This is the project1 test page
