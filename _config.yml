@@ -3,6 +3,4 @@ title: Asa Freeman
 description: Personal website / portfolio
 show_downloads: true
 
-body {
-    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-}
+theme: jekyll-apple
